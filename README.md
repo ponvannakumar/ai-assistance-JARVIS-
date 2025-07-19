@@ -4,7 +4,7 @@ Jarvis is a smart and customizable desktop assistant built using Python, Eel, HT
 
 From launching apps to making calls and chatting, Jarvis brings AI and automation to your fingertips.
 
-✨ Features
+#✨ Features
 🎙️ Control via Voice & Typing
 📞 Make Phone Calls via Mobile (Android)
 📲 Pickup & Disconnect Calls
@@ -15,7 +15,9 @@ From launching apps to making calls and chatting, Jarvis brings AI and automatio
 🤖 Chat Interaction
 🎵 Play Videos/Songs on YouTube & Spotify
 🌤️ Check Weather Updates
-🛠️ Tech Stack
+
+
+#🛠️ Tech Stack
 Python – Core logic
 Eel – Web-Python integration
 HTML/CSS/JS – Interactive frontend
